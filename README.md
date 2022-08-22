@@ -42,3 +42,9 @@ Nome do professor , CPF do professor , Turmas do professor.
 Codigo da turma, Alunos nessa turma , professor da turma , materia da turma, notas dos alunos.
 Os alunos só podem acessar suas proprias notas, enquanto os professores podem acessar todas.
 
+**REQ09** - O sistema deverá permitir que o usuario possa imprimir um relatorio contendo todas as turmas e suas informações.
+            Também será possivel imprimir um relatorio para outros objetos como: As disciplinas de um determinado professor. 
+            Os professores só poderão imprimir relatórios relacionados as suas classes , enquanto o administrador poderá ter acesso a qualquer relatório.
+            
+
+
