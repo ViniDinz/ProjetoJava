@@ -30,7 +30,7 @@ referente a materia do professor.
 **REQ04** - O sistema deverá permitir que professores possam checar e editar as seguintes informações:
 Notas de cada aluno referente a materia do professor.
 
-**REQ05** - O sistema deverá permitir que alunos possam checar as seguintes informações:
+**REQ05** - O sistema deverá permitir que alunos possam checar as seguintes informações: Perfil do Aluno.
 
 **REQ06** - O perfil do aluno deverá conter as seguintes informações:
 Nome do aluno, CPF do aluno , Turmas do aluno , Notas do aluno.
